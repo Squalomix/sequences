@@ -22,13 +22,16 @@ Rtypus_kobe_v1.0: [Files in FigShare](https://figshare.com/projects/sharkgenome1
 [Manually curated shark/non-shark genes](https://transcriptome.riken.jp/squalomix/resources/14.manually-curated-genes_SharkGenomePaper.fna.gz)<BR>
 (for details, see Supplementary Data [1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM3_ESM.pdf) and [2](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM4_ESM.xlsx) of [Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://doi.org/10.1038/s41559-018-0673-5)) 
 
+  <BR>
+<BR>
 ## Sequence data from Kadota et al., bioRxiv 2022
   
 Cite: [Kadota et al., Sci Rep 2020](https://www.nature.com/articles/s41598-020-71602-w)
 ### Brownbanded bamboo shark *Chiloscyllium punctatum*
   [Cpunctatum_v2.1](https://figshare.com/articles/dataset/Brownbanded_bamboo_shark_C_punctatum_genome_assemby_Cpunctatum_v2_1/11796747): [Genome](https://transcriptome.riken.jp/squalomix/resources/bambooshark-genome-dtchicago_Cpunctatum_v2.1.fna.gz)
 
-  
+  <BR>
+<BR>
 ## Sequence data from Yamaguchi et al., bioRxiv 2022
 
 Cite: [Yamaguchi et al., bioRxiv. doi: 10.1101/2022.10.17.512540 ](https://www.biorxiv.org/content/10.1101/2022.10.17.512540v1)
