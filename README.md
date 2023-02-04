@@ -1,9 +1,6 @@
 # Entrance to Squalomix sequence archive
 
 
-Sequence search in Squalomix data sets
-
-
 ## Sequence data from Hara et al., 2018
 
 Cite: [Hara et al. "Shark genomes provide insights into elasmobranch evolution and the origin of vertebrates" Nature Ecology & Evolution, 2018. 2: 1761-1771](https://doi.org/10.1038/s41559-018-0673-5)
