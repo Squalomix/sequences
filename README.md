@@ -33,5 +33,5 @@ Cite: Zebra shark [Stegostoma fasciatum/tigrinum]
 sSteFas1.1 at NCBI: Genome, Genome browser
 
 
-##Taxonomic list of chondrichthyan species with sequenced genomes displayed at GenomeSync
-We continue working on chromosome-scale genome sequences of these species scaffolded by our own Hi-C workflow. Please contact the corresponding author of the publication included below if you have any idea of collaboration. 
+## Other resources
+[Taxonomic list of chondrichthyan species with sequenced genomes](http://genomesync.nig.ac.jp/statistics/?cn=7777&tree_depth=10&show=genome&show=species&show=genus&show=family&show=order&show_seq_vs_known=1&genomes=1&show=ags&show=agcc&q=7777&complete=words) displayed at GenomeSync
