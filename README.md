@@ -24,7 +24,7 @@ sRhiTyp1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965
 
 ## Sequence data from Yamaguchi et al., bioRxiv 2022
 
-Cite: Zebra shark [Stegostoma fasciatum/tigrinum]
+### Zebra shark [Stegostoma fasciatum/tigrinum]
 sSteFas1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_022316705.1), [Genome browser](https://transcriptome.riken.jp/squalomix/jbrowse2_sfasciatum)
 
 
