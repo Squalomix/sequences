@@ -25,7 +25,7 @@ Rtypus_kobe_v1.0: [Files in FigShare](https://figshare.com/projects/sharkgenome1
 <BR>
 <BR>
   
-## Sequence data from Kadota et al., bioRxiv 2022
+## Sequence data from Kadota et al., Sci Rep 2020
   
 Cite: [Kadota et al., Sci Rep 2020](https://www.nature.com/articles/s41598-020-71602-w)
 ### Brownbanded bamboo shark *Chiloscyllium punctatum*
