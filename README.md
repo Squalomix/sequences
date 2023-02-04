@@ -24,7 +24,7 @@ sRhiTyp1.1 at NCBI: Genome
 ### Miscellaneous
 Shark genome scaffolds adopted from earlier assembly versions
 Manually curated shark/non-shark genes
-(for details, see Supplementary Data 1 and 2 of Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771) 
+(for details, see Supplementary Data 1 and [2](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM4_ESM.xlsx) of Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771) 
 
 
 ## Sequence data from Yamaguchi et al., bioRxiv 2022
