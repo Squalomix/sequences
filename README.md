@@ -6,31 +6,29 @@ Sequence search in Squalomix data sets
 
 ## Sequence data from Hara et al., 2018
 
-Cite: Hara et al. "Shark genomes provide insights into elasmobranch evolution and the origin of vertebrates" Nature Ecology & Evolution, 2018. 2: 1761-1771
-
-Sequence and Annotation Files
+Cite: [Hara et al. "Shark genomes provide insights into elasmobranch evolution and the origin of vertebrates" Nature Ecology & Evolution, 2018. 2: 1761-1771](https://doi.org/10.1038/s41559-018-0673-5)
 
 ### Brownbanded bamboo shark [Chiloscyllium punctatum]
-Cpunctatum_v1.0: Genome, Gene model (FigShare), Transcriptome
-Cpunctatum_v2.1: Genome
+[Cpunctatum_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427335.1/): [Genome](https://transcriptome.riken.jp/squalomix/resources/01.GCA_003427335.1_Cpunctatum_v1.0_genomic.rn.fna.gz), [Gene model (FigShare)](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863), [Transcriptome](https://transcriptome.riken.jp/squalomix/resources/21.Chiloscyllium_punctatum_Trinity.fna.gz)
+[Cpunctatum_v2.1](https://figshare.com/articles/dataset/Brownbanded_bamboo_shark_C_punctatum_genome_assemby_Cpunctatum_v2_1/11796747): [Genome](https://transcriptome.riken.jp/squalomix/resources/bambooshark-genome-dtchicago_Cpunctatum_v2.1.fna.gz)
 
 ### Cloudy catshark [Scyliorhinus torazame]
-Storazame_v1.0: Genome, Gene model (FigShare), Transcriptome
+[Storazame_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427355.1/): [Genome](https://transcriptome.riken.jp/squalomix/resources/02.GCA_003427355.1_Storazame_v1.0_genomic.rn.fna.gz), [Gene model (FigShare)](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863), [Transcriptome](https://transcriptome.riken.jp/squalomix/resources/23.Scyliorhinus_torazame_Trinity.fna.gz)
 
 ### Whale shark [Rhincodon typus]
-Rtypus_kobe_v1.0: Files in FigShare
-sRhiTyp1.1 at NCBI: Genome
+Rtypus_kobe_v1.0: [Files in FigShare](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863)
+sRhiTyp1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1)
 
 ### Miscellaneous
 [Shark genome scaffolds adopted from earlier assembly versions](https://transcriptome.riken.jp/squalomix/resources/04.Genome_Scaffold_earlier_assembly_version_3sharks.fasta.gz)<BR>
-[Manually curated shark/non-shark genes](https://transcriptome.riken.jp/squalomix/resources/14.manually-curated-genes_SharkGenomePaper.fna.gz)
-(for details, see Supplementary Data [1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM3_ESM.pdf) and [2](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM4_ESM.xlsx) of Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771) 
+[Manually curated shark/non-shark genes](https://transcriptome.riken.jp/squalomix/resources/14.manually-curated-genes_SharkGenomePaper.fna.gz)<BR>
+(for details, see Supplementary Data [1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM3_ESM.pdf) and [2](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM4_ESM.xlsx) of [Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771](https://doi.org/10.1038/s41559-018-0673-5)) 
 
 
 ## Sequence data from Yamaguchi et al., bioRxiv 2022
 
 Cite: Zebra shark [Stegostoma fasciatum/tigrinum]
-sSteFas1.1 at NCBI: Genome, Genome browser
+sSteFas1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_022316705.1), [Genome browser](https://transcriptome.riken.jp/squalomix/jbrowse2_sfasciatum)
 
 
 ## Other resources
