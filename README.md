@@ -1,5 +1,7 @@
 # Entrance to Squalomix sequence archive
 
+Link to [the Squalomix BLAST page](https://transcriptome.riken.jp/squalomix/blast/)
+
 
 ## Sequence data from Hara et al., 2018
 
