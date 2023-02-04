@@ -22,7 +22,7 @@ Rtypus_kobe_v1.0: Files in FigShare
 sRhiTyp1.1 at NCBI: Genome
 
 ### Miscellaneous
-[Shark genome scaffolds adopted from earlier assembly versions](https://transcriptome.riken.jp/squalomix/resources/04.Genome_Scaffold_earlier_assembly_version_3sharks.fasta.gz)
+[Shark genome scaffolds adopted from earlier assembly versions](https://transcriptome.riken.jp/squalomix/resources/04.Genome_Scaffold_earlier_assembly_version_3sharks.fasta.gz)<BR>
 [Manually curated shark/non-shark genes](https://transcriptome.riken.jp/squalomix/resources/14.manually-curated-genes_SharkGenomePaper.fna.gz)
 (for details, see Supplementary Data [1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM3_ESM.pdf) and [2](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-018-0673-5/MediaObjects/41559_2018_673_MOESM4_ESM.xlsx) of Hara et al., 2018. Nat. Ecol. Evol. 2: 1761-1771) 
 
