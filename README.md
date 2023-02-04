@@ -9,7 +9,7 @@ Link to [the Squalomix BLAST page](https://transcriptome.riken.jp/squalomix/blas
 Cite: [Hara et al. "Shark genomes provide insights into elasmobranch evolution and the origin of vertebrates" Nature Ecology & Evolution, 2018. 2: 1761-1771](https://doi.org/10.1038/s41559-018-0673-5)
 
 ### Brownbanded bamboo shark *Chiloscyllium punctatum*
-[Cpunctatum_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427335.1/): [Genome](https://transcriptome.riken.jp/squalomix/resources/01.GCA_003427335.1_Cpunctatum_v1.0_genomic.rn.fna.gz), [Gene model (FigShare)](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863), [Transcriptome](https://transcriptome.riken.jp/squalomix/resources/21.Chiloscyllium_punctatum_Trinity.fna.gz)
+[Cpunctatum_v1.0](https://www.ncbi.nlm.nih.gov/assembly/GCA_003427335.1/): [Genome](https://transcriptome.riken.jp/squalomix/resources/01.GCA_003427335.1_Cpunctatum_v1.0_genomic.rn.fna.gz), [Gene model (FigShare)](https://figshare.com/projects/sharkgenome1-phyloinfokobe/28863), [Transcriptome](https://transcriptome.riken.jp/squalomix/resources/21.Chiloscyllium_punctatum_Trinity.fna.gz)<BR>
 [Cpunctatum_v2.1](https://figshare.com/articles/dataset/Brownbanded_bamboo_shark_C_punctatum_genome_assemby_Cpunctatum_v2_1/11796747): [Genome](https://transcriptome.riken.jp/squalomix/resources/bambooshark-genome-dtchicago_Cpunctatum_v2.1.fna.gz)
 
 ### Cloudy catshark *Scyliorhinus torazame*
