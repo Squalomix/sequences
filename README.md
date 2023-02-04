@@ -34,7 +34,9 @@ Cite: [Kadota et al., Sci Rep 2020](https://www.nature.com/articles/s41598-020-7
 Cite: [Yamaguchi et al., bioRxiv. doi: 10.1101/2022.10.17.512540 ](https://www.biorxiv.org/content/10.1101/2022.10.17.512540v1)
 ### Zebra shark *Stegostoma tigrinum* (formerly, *fasciatum*)
 sSteFas1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_022316705.1), [Genome browser](https://transcriptome.riken.jp/squalomix/jbrowse2_sfasciatum)<BR>
-sRhiTyp1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1)
+
+  ### Whale shark *Rhincodon typus*
+  sRhiTyp1.1 at NCBI: [Genome](https://www.ncbi.nlm.nih.gov/assembly/GCA_021869965.1)
 
 ## Other resources
 [Taxonomic list of chondrichthyan species with sequenced genomes](http://genomesync.nig.ac.jp/statistics/?cn=7777&tree_depth=10&show=genome&show=species&show=genus&show=family&show=order&show_seq_vs_known=1&genomes=1&show=ags&show=agcc&q=7777&complete=words) displayed at [GenomeSync](https://genomesync.org/).
