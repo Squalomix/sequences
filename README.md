@@ -1,6 +1,6 @@
 # Entrance to Squalomix sequence archive
 
-Link to [the Squalomix BLAST page](https://transcriptome.riken.jp/squalomix/blast/)
+Link to [the Squalomix BLAST page](https://treethinkers.nig.ac.jp/squalomix/blast/)
 <BR>
 <BR>
 
